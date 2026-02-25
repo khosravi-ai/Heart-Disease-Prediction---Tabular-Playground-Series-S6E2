@@ -1,0 +1,8 @@
+# Folders
+.ipynb_checkpoints/
+dataset/
+other cods/
+
+# Files
+Predicting Heart Disease.ipynb
+submission.csv
